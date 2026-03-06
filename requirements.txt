@@ -1,0 +1,11 @@
+jupyterlab
+httpx
+matplotlib
+mcp
+numpy
+ollama
+pandas
+nose2
+seaborn
+tellurium
+pip
