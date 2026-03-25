@@ -9,3 +9,5 @@ nose2
 seaborn
 tellurium
 pip
+pytest
+pytest-asyncio
